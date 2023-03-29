@@ -30,4 +30,4 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 * Virtualization Support -> Virtualization -> Check “Enable Intel Virtualization Technology”
 * Virtualization Support -> VT for Direct I/O -> Uncheck “Enable VT for Direct I/O”
 
-Thanks to [Baggette](https://github.com/Baggette)
+Thanks to [Baggette](https://github.com/Baggette) for providing me his EFI and letting me use some parts from his EFI in mine.
