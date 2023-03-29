@@ -1,7 +1,9 @@
 # dell-latitude-e6530-hackintosh-big-sur
 A prebuilt Opencore EFI for macOS Big Sur on the Dell Latitude E6530
 
-This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel Wi-Fi cards. 11.7.5 working, with OpenCore 0.9.0 and fully up to date kexts. Remember to keep your kexts and OpenCore up to date! I recommend OCAuxiliaryTools to keep your kexts and OpenCore up to date. Remember to change your SMBIOS data too.
+This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel Wi-Fi cards. 11.7.5 working, with OpenCore 0.9.0 and fully up to date kexts. Remember to keep your kexts and OpenCore up to date! I recommend OCAuxiliaryTools to keep your kexts and OpenCore up to date. Remember to change your SMBIOS data too. 
+
+![Screenshot](https://github.com/Lost-Entrepreneur439/dell-latitude-e6530-hackintosh-big-sur/blob/main/Screen%20Shot%202023-03-28%20at%209.48.30%20PM.png)
 
 # Specs of my specific unit:
 * CPU: Intel Core i5-3320m @ 2.6GHz
@@ -27,3 +29,5 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 * Power Management -> Wake on LAN/WLAN -> Disabled
 * Virtualization Support -> Virtualization -> Check “Enable Intel Virtualization Technology”
 * Virtualization Support -> VT for Direct I/O -> Uncheck “Enable VT for Direct I/O”
+
+Thanks to [Baggette](https://github.com/Baggette) for providing me his EFI and letting me use some parts from his EFI in mine.
