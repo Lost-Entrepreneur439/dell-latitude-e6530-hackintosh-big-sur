@@ -32,7 +32,7 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 
 # Credits
 
-*[Baggette](https://github.com/Baggette) for providing me his EFI and letting me use some parts from his EFI in mine.
-*[Hervé on OSXLatitude](https://osxlatitude.com/profile/4953-herv%C3%A9/) for helping me fix graphical glitches and the SD card slot.
-*[Jake Lo on OSXLatitude](https://osxlatitude.com/profile/1549-jake-lo/) for helping me fix sleep
-*[Everyone who made OpenCore](https://github.com/acidanthera/OpenCorePkg)
+* [Baggette](https://github.com/Baggette) for providing me his EFI and letting me use some parts from his EFI in mine.
+* [Hervé on OSXLatitude](https://osxlatitude.com/profile/4953-herv%C3%A9/) for helping me fix graphical glitches and the SD card slot.
+* [Jake Lo on OSXLatitude](https://osxlatitude.com/profile/1549-jake-lo/) for helping me fix sleep
+* [Everyone who made OpenCore](https://github.com/acidanthera/OpenCorePkg)
