@@ -33,6 +33,14 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 # Credits
 
 * [Baggette](https://github.com/Baggette) for providing me his EFI and letting me use some parts from his EFI in mine.
-* [Hervé on OSXLatitude](https://osxlatitude.com/profile/4953-herv%C3%A9/) for helping me fix graphical glitches and the SD card slot.
-* [Jake Lo on OSXLatitude](https://osxlatitude.com/profile/1549-jake-lo/) for helping me fix sleep
-* [Everyone who made OpenCore](https://github.com/acidanthera/OpenCorePkg)
+* [Hervé](https://osxlatitude.com/profile/4953-herv%C3%A9/) for helping me fix graphical glitches and the SD card slot.
+* [Jake Lo](https://osxlatitude.com/profile/1549-jake-lo/) for helping me fix sleep
+* [Acidanthera](https://github.com/acidanthera)for making OpenCore, AppleALC, BrightnessKeys, IntelMausi, Lilu, RestrictEvents, VirtualSMC, VoodooPS2 and WhateverGreen
+* [Dortania](https://github.com/dortania) for making CtlnaAHCIPort and the OpenCore Install Guide which was used to make this EFI
+* [OpenIntelWireless](https://github.com/OpenIntelWireless/) for making Airportitlwm
+* [blankmac](https://github.com/blankmac) for making AlpsHID
+* [1Revenger1](https://github.com/1Revenger1) for making ECEnabler
+* [Sniki](https://github.com/Sniki) for making USBInjectAll
+* [corpnewt](https://github.com/corpnewt) for making USBMap and SSDTTime
+* [Apple](https://www.apple.com/) for making macOS.
+* [Dell](https://www.dell.com/en-ca) for making the Latitude E6530
