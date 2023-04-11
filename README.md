@@ -42,5 +42,6 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 * [1Revenger1](https://github.com/1Revenger1) for making ECEnabler
 * [Sniki](https://github.com/Sniki) for making USBInjectAll
 * [corpnewt](https://github.com/corpnewt) for making USBMap and SSDTTime
+* [VoodooI2C](https://github.com/VoodooI2C) for making VoodooI2C and VoodooI2CHID
 * [Apple](https://www.apple.com/) for making macOS.
 * [Dell](https://www.dell.com/en-ca) for making the Latitude E6530
