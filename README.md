@@ -16,6 +16,8 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 * Touchpad: Alps
 * BIOS: A22
 
+Follow the "Downloading macOS" section in the Dortania guide to get macOS - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos
+
 # Set BIOS settings as follows
 * General -> Boot Sequence -> UEFI
 * General -> Advanced Boot Options -> uncheck “Enable Legacy Option ROMs”
@@ -38,7 +40,6 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 * [Acidanthera](https://github.com/acidanthera)for making OpenCore, AppleALC, BrightnessKeys, IntelMausi, Lilu, RestrictEvents, VirtualSMC, VoodooPS2 and WhateverGreen
 * [Dortania](https://github.com/dortania) for making CtlnaAHCIPort and the OpenCore Install Guide which was used to make this EFI
 * [OpenIntelWireless](https://github.com/OpenIntelWireless/) for making Airportitlwm
-* [blankmac](https://github.com/blankmac) for making AlpsHID
 * [1Revenger1](https://github.com/1Revenger1) for making ECEnabler
 * [Sniki](https://github.com/Sniki) for making USBInjectAll
 * [corpnewt](https://github.com/corpnewt) for making USBMap and SSDTTime
