@@ -34,15 +34,12 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS - http
 
 # Credits
 
-* [Baggette](https://github.com/Baggette) for providing me his EFI and letting me use some parts from his EFI in mine.
 * [Hervé](https://osxlatitude.com/profile/4953-herv%C3%A9/) for helping me fix graphical glitches and the SD card slot.
 * [Jake Lo](https://osxlatitude.com/profile/1549-jake-lo/) for helping me fix sleep
-* [Acidanthera](https://github.com/acidanthera) for making OpenCore, AppleALC, BrightnessKeys, IntelMausi, Lilu, RestrictEvents, VirtualSMC, VoodooPS2 and WhateverGreen
-* [Dortania](https://github.com/dortania) for making CtlnaAHCIPort and the OpenCore Install Guide which was used to make this EFI
-* [OpenIntelWireless](https://github.com/OpenIntelWireless/) for making Airportitlwm
-* [1Revenger1](https://github.com/1Revenger1) for making ECEnabler
-* [Sniki](https://github.com/Sniki) for making USBInjectAll
-* [corpnewt](https://github.com/corpnewt) for making USBMap and SSDTTime
-* [VoodooI2C](https://github.com/VoodooI2C) for making VoodooI2C and VoodooI2CHID
+* [Acidanthera](https://github.com/acidanthera) -- Made OpenCore, AppleALC, BrightnessKeys, IntelMausi, Lilu, SMCBatteryManager, SMCDellSensors, SMCProcessor, SMCSuperIO, VirtualSMC, VoodooPS2Controller & WhateverGreen
+* [OpenIntelWireless](https://github.com/OpenIntelWireless) -- Made Airportitlwm
+* [Avery Black](https://github.com/1Revenger1) -- Made ECEnabler
+* [USBToolBox](https://github.com/USBToolBox) -- Made USBToolBox & UTBMap
+* [CorpNewt](https://github.com/corpnewt) -- Made SSDTTime
 * [Apple](https://www.apple.com/) for making macOS.
 * [Dell](https://www.dell.com/en-ca) for making the Latitude E6530
