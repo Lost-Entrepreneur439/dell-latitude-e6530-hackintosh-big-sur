@@ -11,7 +11,7 @@ This is a macOS Big Sur EFI for the Dell Latitude E6530, with support for Intel 
 * RAM: 2x4GB Samsung 1333MHz DDR3
 * Laptop model: Dell Latitude E6530
 * Audio Codec: IDT92HD93BXX
-* Ethernet card: I don’t remember the model but it was some type of Intel card
+* Ethernet card: Intel 82579LM
 * Wi-Fi card: Intel Centrino Advanced-N 6205
 * Touchpad: Alps
 * BIOS: A22
@@ -20,7 +20,7 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS - http
 
 # Set BIOS settings as follows
 * General -> Boot Sequence -> UEFI
-* General -> Advanced Boot Options -> uncheck “Enable Legacy Option ROMs”
+* General -> Advanced Boot Options -> uncheck “Enable Legacy Option ROMs” (If you're planning to dualboot with Windows Vista or Windows 7, check this.)
 * System Configuration -> Parallel Port -> Disabled
 * System Configuration -> Serial Port -> Disabled
 * System Configuration -> SATA Operation -> AHCI
